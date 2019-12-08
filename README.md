@@ -3,5 +3,11 @@ Spring Boot back-end exposing REST API endpoints - performing CRUD operations. P
 
 
 ![App Screenshot](Screenshots/Untitled.png)
+
+
+We login to the application using "gkaral" account and "1234" as password
 ![App Screenshot](Screenshots/Untitledlogin.png)
+
+
+
 ![App Screenshot](Screenshots/UntitledloginLIST.png)
