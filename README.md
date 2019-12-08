@@ -8,9 +8,9 @@ Spring Boot back-end exposing REST API endpoints - performing CRUD operations. P
 
 
 
-### We  login to the application using "gkaral" account and "1234" as password
+### We  login to the application using "gkaral" username and "1234" as password
 ![App Screenshot](Screenshots/Untitledlogin.png)
 
 
-
+### After logging in we see the available Service Bundles in the database
 ![App Screenshot](Screenshots/UntitledloginLIST.png)
